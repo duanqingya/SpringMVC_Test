@@ -25,4 +25,4 @@
     http://localhost:8080/SpringMVC_Test/queryFruits_test.action
 	
 测试结果页面：
-  ![Image text]https://github.com/duanqingya/SpringMVC_Test/blob/master/Test_Result.jpg
+  ![Image text](https://github.com/duanqingya/SpringMVC_Test/blob/master/Test_Result.jpg)
