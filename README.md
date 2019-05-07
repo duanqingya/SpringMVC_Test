@@ -23,3 +23,6 @@
 
 第六步：将工程部署到Tomcat服务器中，打开浏览器访问以下路径（这里Tomcat的端口为8080）：
     http://localhost:8080/SpringMVC_Test/queryFruits_test.action
+	
+测试结果页面：
+  ![Image text]https://github.com/duanqingya/SpringMVC_Test/blob/master/Test_Result.jpg
