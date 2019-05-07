@@ -1,6 +1,6 @@
 # SpringMVC_Test
-第一步：web.xml:
-    添加SpringMVC的前端控制器，用于拦截符合配置的URL
+第一步：web.xml:   
+添加SpringMVC的前端控制器，用于拦截符合配置的URL
 
 第二步：springmvc.xml:
      （1）添加处理器映射器HandlerMapping
